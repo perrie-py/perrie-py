@@ -10,7 +10,7 @@ I have a strong interst in AI, particularly how it intersects with applied lingu
 - Exploring how LLMs handle real linguistic phenomena
 
 ## Interests 
-'NLP' 'LLM' 'Text Processing' 'Computational Linguistics' 'Applied Linguistics' 'Corpus Analysis' 'AI' 'Language'
+`NLP` `LLM` `Text Processing` `Computational Linguistics` `Applied Linguistics` `Corpus Analysis` `AI & Language`
 
 ## Get in Touch
 [LinkedIn] (https://www.linkedin.com/in/perrie-davenport-jarvis-0489182b7)
